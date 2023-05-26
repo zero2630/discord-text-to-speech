@@ -45,4 +45,4 @@ async def s(context):
     VoiceClient.disconnect()
 
 
-bot.run('OTc1NzkyNDY0OTk4ODI2MDc0.GRrmKG.O66LCRavuQujCiC0grkbXFDkQNhUb9rGAaK5IU')
+bot.run('yourtoken')
